@@ -1,0 +1,1 @@
+textbox_draw(gow_textbox[3], 10, 10, 400, 32);

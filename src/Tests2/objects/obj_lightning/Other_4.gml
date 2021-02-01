@@ -1,0 +1,1 @@
+math_set_epsilon(0.0001);

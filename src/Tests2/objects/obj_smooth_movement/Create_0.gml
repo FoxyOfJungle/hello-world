@@ -1,0 +1,1 @@
+move_rate = 0;
