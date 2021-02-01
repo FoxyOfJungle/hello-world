@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"lolipop","path":"scripts/lolipop/lolipop.yy",},"order":4,},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":0,},
     {"id":{"name":"obj_smooth_movement","path":"objects/obj_smooth_movement/obj_smooth_movement.yy",},"order":6,},
